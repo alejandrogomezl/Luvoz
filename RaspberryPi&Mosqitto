@@ -1,0 +1,7 @@
+//Para instalar mosquitto en raspbian necesitamos:
+
+//-Actualizar nuestra raspberry al último Raspbian
+sudo apt-get update
+sudo apt-get upgrade
+
+//-Instalamos mosquitto 
